@@ -12,7 +12,7 @@ patterns = {
     'what is your name': ['My name is CodeIQ ACS. How can I help you today?', 'I am CodeIQ ACS!',
                           'I go by CodeIQ ACS. ASC means Automated Chatter System!'],
     'bye': ['Goodbye!', 'See you later.', 'It was nice talking to you.'],
-    'cunt nmber': ['Okay, which number do you want me to count to?'],
+    'count number': ['Okay, which number do you want me to count to?'],
     'count to': ['Okay, counting now!!', 'Sure, here are the numbers:']
 }
 
