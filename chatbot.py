@@ -4,7 +4,7 @@ import time
 from colorama import Fore
 
 patterns = {
-    'what are you': ["I am a Chat Bot called CodeIQ ACS, I am developed by CodeIQ's Lead Developer & Founder, Logan.",
+    'what are you': ["I am a Chat Bot called CodeIQ ACS, I am developed by CodeIQ's Lead Developer & Founder, ExplodeCode",
                      'I am a Chat Bot called CodeIQ ACS with capabilities of talking to humans', 'I am CodeIQ ACS and I want to help all humans acomplish their coding dreams!'],
     'hello': ['Hi there!', 'Hello!', 'Hey!'],
     'how are you': ['I am doing well, thanks for asking. What about you?', 'I am fine, thank you. How about you?',
